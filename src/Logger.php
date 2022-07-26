@@ -3,8 +3,6 @@
 
 namespace MyLogger;
 
-use LogLevel;
-
 class Logger
 {
     public $logFile;
