@@ -1,0 +1,19 @@
+{
+  "name": "kostya012/logger",
+  "description": "My logger",
+  "type": "library",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "kostya012",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MyLogger\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
